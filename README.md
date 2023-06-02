@@ -1,7 +1,7 @@
 # 👩🏻‍💻Leeseohyun
 #### Web Front-End Developer
 
-### 💡My Tech Stack
+### 💡 My Tech Stack
 
   
 |Language|Framework / Library|Cloud|
